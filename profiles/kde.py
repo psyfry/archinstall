@@ -5,7 +5,7 @@ import archinstall
 is_top_level_profile = False
 
 __packages__ = [
-	"plasma-meta",
+	"plasma-desktop",
 	"konsole",
 	"kate",
 	"dolphin",
